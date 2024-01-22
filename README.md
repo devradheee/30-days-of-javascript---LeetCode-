@@ -2,8 +2,6 @@
 Welcome to the LeetCode 30 Days JavaScript Solution Repository!.....
 # LeetCode 30 Days of JavaScript
 
-## Radheshyam Kushwaha [@devradheee]
-
 Welcome to the LeetCode 30 Days JavaScript Solution Repository! In this repository, you will find JavaScript solutions to the LeetCode 30-Day Challenge problems. This collection of solutions is designed to help you enhance your problem-solving skills, improve your algorithmic thinking, and become a better programmer.
 
 ## Table of Contents
