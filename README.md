@@ -1,6 +1,8 @@
-# 30-days-of-javascript---LeetCode-
+# 30__days-of-javascript-LeetCode
 Welcome to the LeetCode 30 Days JavaScript Solution Repository!.....
 # LeetCode 30 Days of JavaScript
+
+## Radheshyam Kushwaha [@devradheee]
 
 Welcome to the LeetCode 30 Days JavaScript Solution Repository! In this repository, you will find JavaScript solutions to the LeetCode 30-Day Challenge problems. This collection of solutions is designed to help you enhance your problem-solving skills, improve your algorithmic thinking, and become a better programmer.
 
@@ -21,7 +23,7 @@ To make the most out of this repository:
 
 1. Clone the repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/devradheee/30-days-of-javascript---LeetCode-
+   git clone https://github.com/devradheee/30__days-of-javascript-LeetCode
    ```
 
 2. Navigate to the cloned repository:
